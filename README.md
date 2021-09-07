@@ -1,2 +1,3 @@
-# todoist-filters
-My own Todoist filters
+# Todoist
+
+`TODO:` Добавить ссылку на заметку
